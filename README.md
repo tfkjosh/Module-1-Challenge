@@ -42,7 +42,7 @@ THEN I am presented with a responsive layout that adapts to my viewportThe HTML 
 
 ## Usage
 
-![FindSeo website URL]()
+![FindSeo website URL](https://tfkjosh.github.io/Module-1-Challenge/)
 
 Navigate to [FindSeo Services](https://github.com/tfkjosh/Module-1-Challenge/edit/main/README.md) and view the web page.
 
